@@ -15,6 +15,3 @@ const dee=()=>{
     console.log("dee");
 }
 
-const pon=()=>{
-    console.log("ishu");
-}
